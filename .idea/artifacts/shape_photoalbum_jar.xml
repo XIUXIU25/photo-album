@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="shape_photoalbum:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/shape_photoalbum_jar</output-path>
-    <root id="archive" name="hw8.jar">
-      <element id="module-output" name="hw8" />
-      <element id="directory" name="folder" />
-    </root>
-  </artifact>
-</component>
